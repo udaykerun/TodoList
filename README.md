@@ -32,15 +32,16 @@ Click on Run in Xcode (Arrow shown in below image)
 
 # Home Screen
 
-1. + to add task
-2. edit to delete or move tasks order
+1. Click on `+` to add task
+2. `Edit` to delete or move tasks order
 
 <img src="./Home.png" width="250" />
+
 <img src="./Home1.png" width="250" />
 
 3. Home screen in editing mode
-a. Tap on red circle to enable delete
-b. Reorder tasks by dragging = on right of the task
+a. Tap on ~red circle~ to enable delete
+b. Reorder tasks by dragging ~=~ on right of the task
 
 <img src="./Delete.png" width="250" />
 
