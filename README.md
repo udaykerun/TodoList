@@ -28,7 +28,7 @@ Select any similator from the list
 
 Click on Run in Xcode (Arrow shown in below image)
 
-<img src="./xcode_screen.png" width="250" />
+<img src="./xcode_Screen.png" width="250" />
 
 # Home Screen
 
