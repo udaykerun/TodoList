@@ -16,7 +16,7 @@
 
 ## Demo
 
-<img src="./demo.gif" width="250" />   <img src="./demo2.gif" width="250" />
+<img src="./demo.gif" width="250" />                                                 <img src="./demo2.gif" width="250" />
 
 ## Running the App
 
@@ -25,7 +25,7 @@
 Select any similator from the list. Click on Run in Xcode (Arrow shown in below image)
 
 
-<img src="./xcode_screen2.png" width="250" />   <img src="./xcode_Screen.png" width="250" />
+<img src="./xcode_screen2.png" width="250" />                        <img src="./xcode_Screen.png" width="250" />
 
 # Home Screen
 
