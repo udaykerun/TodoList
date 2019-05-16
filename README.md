@@ -1,17 +1,58 @@
-<p align="center">
-  <b>To-do list iOS app</b>
-</p>
+# To-do List
+> App to save Todo list.
+
+[![Swift Version][swift-image]][swift-url]
+
+## Features
+- [x] Add Task
+- [x] Update Task
+- [x] Delete Task
+- [x] Reorder Task
+
+## Requirements
+
+- iOS 12.0+
+- Xcode 10.2
 
 ## Demo
 
 <img src="./demo.gif" width="250" />
 
-## Motivation
+## Running the App
 
-It's been over 2 years since I built an iOS app and a lot has changed in the iOS ecosystem since then. For instance, I have an app on the App Store called <a href="https://itunes.apple.com/us/app/typs/id1145048452" style="font-weight: bold">typs</a> which was written in Swift 1. And when I tried to open it in Xcode 9, it woudn't even build the app successfully.
+1. Open `TodoList.xcodeproj` file in the folder
 
-Hence I decided to referesh my knowledge and learn how to build a simple To-do list app from scratch in iOS 11 & Swift 4.
+Select any similator from the list
 
-## Course
+<img src="./xcode_screen2.png" width="250" />
 
-I found [this](https://www.udemy.com/ios-swift-build-a-to-do-list-app) really short and helpful course on Udemy that walks you through how to build a to-do list app.
+Click on Run in Xcode (Arrow shown in below image)
+
+<img src="./xcode_screen.png" width="250" />
+
+# Home Screen
+
+1. + to add task
+2. edit to delete or move tasks order
+
+<img src="./Home.png" width="250" />
+<img src="./Home1.png" width="250" />
+
+3. Home screen in editing mode
+a. Tap on red circle to enable delete
+b. Reorder tasks by dragging = on right of the task
+
+<img src="./Delete.png" width="250" />
+
+After editing tap on Done to come back to normal mode.
+
+# Add or Edit Task Screen
+1. Title
+2. Description
+
+<img src="./Add.png" width="250" />
+
+## Meta
+
+[swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
+[swift-url]: https://swift.org/
