@@ -34,9 +34,9 @@ Select any similator from the list. Click on Run in Xcode (Arrow shown in below 
 
 <img src="./Home.png" width="250" />    <img src="./Home1.png" width="250" />
 
-3. Home screen in editing mode
-    a). Tap on ~red circle~ to enable delete
-    b). Reorder tasks by dragging ~=~ on right of the task
+3. Home screen in editing mode.
+    - Tap on ~red circle~ to enable delete
+    - Reorder tasks by dragging ~=~ on right of the task
 
 <img src="./Delete.png" width="250" />
 
